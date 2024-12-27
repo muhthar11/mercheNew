@@ -1,0 +1,13 @@
+{
+  "MONGODB_CLIENT": "mongodb-atlas",
+  "MONGODB_BASE_URL": "https://realm.mongodb.com",
+  "MONGODB_DB": "merche",
+  "MONGODB_APP_NAME": "provider-bosrtzq",
+  "MONGODB_GENERAL_APP_NAME": "general-ibxiivt",
+  "MONGODB_GENERAL_APP_KEY": "Z1UjoC49oyDaL1C7raUu6Skr06qAPfdqOc7Ql1Cfv2CLA8kFB1e3jz8aKOisk2Ym",
+  "SHOP_URL": "https://merche.staging.coderythm.com/",
+  "PROVIDER_URL": "https://provider.merche.staging.coderythm.com/mwl",
+  "IMAGEKIT_PUBLICKEY": "public_CgYxaYUEvZc+83OWNPszEEmRrFk=",
+  "IMAGEKIT_URLENDPOINT": "https://ik.imagekit.io/mercheapp",
+  "IMAGEKIT_AUTHENTICATIONENTPOINT": "https://ap-south-1.aws.data.mongodb-api.com/app/provider-ubhpu/endpoint/auth"
+}
